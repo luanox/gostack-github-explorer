@@ -11,7 +11,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #F0F0F5 url(${githubbackground}) no-repeat 70% top;
+    background: #2b2b2b82 url(${githubbackground}) no-repeat 70% top;
     -webkit-font-smoothing: antialiased;
   }
 
